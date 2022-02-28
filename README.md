@@ -9,6 +9,7 @@ make sure you have install qnx700 sdp and qcc is vaild before compiling.
 1. source your_qnx700/qnxsdp-env.sh
 
 you can set target build arch using QNX_ARCH environment variable.
+
 2. export QNX_ARCH=aarch64le
 
 3. cd vsomeip-master
